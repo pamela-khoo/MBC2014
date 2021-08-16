@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="note_title_hint">Enter a title for the note.</string>
+    <string name="note_title_label">Title</string>
+    <string name="note_details_label">Details</string>
+    <string name="note_description_label">Description</string>
+    <string name="note_description_hint">Enter contents of your note</string>
+    <string name="note_important_label">Important!</string>
+    <string name="date_picker_title">Date due:</string>
+    <string name="time_picker_title">Time due:</string>
+    <string name="new_note">New Note</string>
+    <string name="show_count">Show Count</string>
+    <string name="hide_count">Hide Count</string>
+    <string name="count_format">%1$d note(s)</string>
+    <string name="note_summary_text">Send Note Summary</string>
+    <string name="note_summary">Task \"%1$s\" is due on %2$s at %3$s. %4$s</string>
+    <string name="note_summary_important">This task is important!</string>
+    <string name="note_summary_unimportant">This task is not that important...</string>
+    <string name="note_summary_subject">Summary of notes</string>
+    <string name="send_summary">Send note summary via</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="empty_state">Nothing to show</string>
+    <string name="empty_state_text">Try adding new notes using the " + " button</string>
+    <string name="picture_dialog_title">Attached picture: </string>
+</resources>
